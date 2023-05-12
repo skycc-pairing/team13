@@ -1,2 +1,1 @@
-# team13
-SCSC해적단
+# SCSC해적단
